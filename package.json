@@ -1,6 +1,6 @@
 {
   "name": "next-combine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package of utility functions for generating server-side Next.js functions",
   "scripts": {
     "build": "tsc --build"

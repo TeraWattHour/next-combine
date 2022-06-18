@@ -36,5 +36,6 @@ export const composeServerSideProps = (...use: UseFunction[]) => {
 
     return { props: p };
   };
+
   return handler;
 };
